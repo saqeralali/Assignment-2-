@@ -1,11 +1,3 @@
-from room import Room
-from guest import Guest
-from booking import Booking
-from invoice import Invoice
-from loyalty_program import LoyaltyProgram
-from service_request import ServiceRequest
-from feedback import Feedback
-
 try:
     #guest account creation
     print("1. Guest Account Creation:")
